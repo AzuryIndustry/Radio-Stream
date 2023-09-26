@@ -35,5 +35,5 @@ To invite Radio-Stream to your Discord server and start enjoying 24/7 radio stre
 
 Once our official bot gets to 100+ discord servers, we will <b>OPEN SOURCE IT</b>.
 <a align="center" href="https://discord.com/api/oauth2/authorize?client_id=935701646883815434&permissions=8&scope=bot%20applications.commands">
-  <img src="https://cdn.discordapp.com/attachments/1130542500952686663/1156346171808292914/image.png" alt="Radio-Stream Banner">
+  <img src="https://cdn.discordapp.com/attachments/1130542500952686663/1156350927062704128/image.png" alt="Radio-Stream Banner">
 </a>
